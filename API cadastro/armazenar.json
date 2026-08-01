@@ -1,0 +1,17 @@
+{
+    "EE0D": {
+        "nome": "Gustavo",
+        "email": "gugp@example.com",
+        "senha": "123"
+    },
+    "5950": {
+        "nome": "carol",
+        "email": "user@example.com",
+        "senha": "string"
+    },
+    "9090": {
+        "nome": "rogerino",
+        "email": "user@example.com",
+        "senha": "string"
+    }
+}
